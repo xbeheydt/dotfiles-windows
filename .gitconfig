@@ -1,0 +1,6 @@
+[user]
+	name = Xavier Beheydt
+	email = xavier.beheydt@gmail.com
+[core]
+	autocrlf = true
+	editor = code --wait
