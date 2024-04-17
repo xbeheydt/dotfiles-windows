@@ -1,0 +1,15 @@
+[user]
+	name = Xavier Beheydt
+	email = xavier.beheydt@gmail.com
+[core]
+	autocrlf = true
+	editor = code --wait
+[filter "lfs"]
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+[init]
+	defaultBranch = main
+[credential "https://huggingface.co"]
+	provider = generic

@@ -1,0 +1,35 @@
+.android/
+.dbus-keyrings/
+.dotnet/
+.nvidia-omniverse/
+.ssh/
+.templateengine/
+.thumbnails/
+.vscode/
+ansel/
+# TODO Add configs from AppData
+AppData/
+Application Data/
+Contacts/
+Cookies/
+Desktop/
+Downloads/
+Favorites/
+Links/
+Local Settings/
+Music/
+My Documents/
+NetHood/
+OneDrive/
+PrintHood/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+source/
+Start Menu/
+Templates/
+
+*.log
+NTUSER*
+ntuser*
